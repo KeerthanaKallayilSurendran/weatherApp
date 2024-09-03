@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(147, 196, 236);
+}
+
+
+.left-side{
+    background-image: url("./pexels-francesco-ungaro-281260.jpg");
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.right-side{
+    height: 80vh;
+    background-color: #646262;
+}
+
+.hr{
+    width: 100%;
+    color: aliceblue;
+
+}
+
+.weather-head{
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.weater-result{
+    color: #fff;
+    font-weight: lighter;
+}
